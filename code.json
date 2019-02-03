@@ -10,9 +10,9 @@
                 "S3Key": "hello_lambda.zip"
              },
              "Description": "Test with Cloud Formation",
-             "FunctionName": "Felix-hello-world1234",
+             "FunctionName": "Felix-hello-world345677",
              "Handler": "lambda_function.lambda_handler",
-             "Role": "arn:aws:iam::776831754616:role/testRol",
+             "Role": "arn:aws:iam::776831754616:role/roletest1-IAMR43L7V-11HEV9ON5PU9I",
              "Runtime": "python2.7"
           }
        }
