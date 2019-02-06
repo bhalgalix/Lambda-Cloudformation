@@ -6,7 +6,8 @@ For this tutorial you will need to have an AWS(Amazon Web Services) account. For
 
 <h3>"Coding" the files</h3>
 
-Next you need to create a new file in a text editor like Sublime or Notepad. You will paste this <a href="https://github.com/bhalgalix/Lambda-Cloudformation/blob/master/hello-world-lambda.py" target="_blank">code</a> and save it with .py format. Example: my-lambda.py.
+
+Next you need to create a new file in a text editor like <a href="https://www.sublimetext.com/" target="_blank">Sublime</a> or Notepad. You will paste this <a href="https://github.com/bhalgalix/Lambda-Cloudformation/blob/master/hello-world-lambda.py" target="_blank">code</a> and save it with .py format. Example: my-lambda.py.
 
 You will compress this file to have a .zip file that you will later use. This zip file can have any name but don't use anything too complex because you will write it later.
 
