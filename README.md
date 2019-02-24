@@ -4,7 +4,7 @@ This is a tutorial to create a lambda function via Amazon Cloud formation.
 
 For this tutorial you will need to have an AWS(Amazon Web Services) account. For this, go to <a href="https://aws.amazon.com/" target="_blank">AWS</a> and create a free account.
 
-<h3>"Coding" the files</h3>
+<h3>"Coding"</h3>
 
 
 Next you need to create a new file in a text editor like <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a> or Notepad. You will paste this <a href="https://github.com/bhalgalix/Lambda-Cloudformation/blob/master/hello-world-lambda.py" target="_blank">code</a> and save it with .py format. Example: my-lambda.py.
